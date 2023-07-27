@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.a0b57496.chunk.css",
-    "main.js": "./static/js/main.d6bbb7bc.chunk.js",
-    "main.js.map": "./static/js/main.d6bbb7bc.chunk.js.map",
+    "main.css": "./static/css/main.aa682f4a.chunk.css",
+    "main.js": "./static/js/main.dd3dbeba.chunk.js",
+    "main.js.map": "./static/js/main.dd3dbeba.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.e17cee74.chunk.js": "./static/js/2.e17cee74.chunk.js",
     "static/js/2.e17cee74.chunk.js.map": "./static/js/2.e17cee74.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.a0b57496.chunk.css.map": "./static/css/main.a0b57496.chunk.css.map",
+    "static/css/main.aa682f4a.chunk.css.map": "./static/css/main.aa682f4a.chunk.css.map",
     "static/js/2.e17cee74.chunk.js.LICENSE.txt": "./static/js/2.e17cee74.chunk.js.LICENSE.txt",
     "static/media/1.46f1edd1.png": "./static/media/1.46f1edd1.png",
     "static/media/1.af93d992.png": "./static/media/1.af93d992.png",
@@ -40,13 +40,12 @@
     "static/media/instagram.75c9560d.svg": "./static/media/instagram.75c9560d.svg",
     "static/media/phone.b8ca1697.svg": "./static/media/phone.b8ca1697.svg",
     "static/media/PhonesPageInfoFovorite.scss": "./static/media/red.0adbb61b.svg",
-    "static/media/slack.5cc498b3.svg": "./static/media/slack.5cc498b3.svg",
     "static/media/telegram.240a821d.svg": "./static/media/telegram.240a821d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.e17cee74.chunk.js",
-    "static/css/main.a0b57496.chunk.css",
-    "static/js/main.d6bbb7bc.chunk.js"
+    "static/css/main.aa682f4a.chunk.css",
+    "static/js/main.dd3dbeba.chunk.js"
   ]
 }
